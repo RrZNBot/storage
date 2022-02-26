@@ -1,7 +1,7 @@
 @font-face {
   font-family: "bootstrap-icons";
-  src: url("fonts/bootstrap-icons.woff") format("woff"),
-url("fonts/bootstrap-icons.woff") format("woff2");
+  src: url("https://raw.githubusercontent.com/RrZNBot/storage/main/npm/bootstrap-icons_1.3.0/font/font/bootstrap-icons.woff") format("woff"),
+url("https://raw.githubusercontent.com/RrZNBot/storage/main/npm/bootstrap-icons_1.3.0/font/font/bootstrap-icons.woff") format("woff2");
 }
 
 [class^="bi-"]::before,
